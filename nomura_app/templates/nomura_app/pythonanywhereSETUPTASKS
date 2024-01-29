@@ -1,0 +1,4 @@
+cd /home/ncorps/.virtualenvs/myenv/bin/activate; cd /home/ncorps/n-invest; python manage.py topup_users; deactivate
+
+
+cd /home/nfincs/.virtualenvs/myenv/bin/activate; cd /home/nfincs/n-fincs; python manage.py topup_users; deactivate
